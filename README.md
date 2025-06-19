@@ -1,3 +1,6 @@
+<a href="https://ibb.co/kgFpb613"><img src="https://i.ibb.co/ccdPfXLb/Screenshot-2025-06-19-09-28-28-57-87c2225eebc34d2513fa0e7ad5b93cfc.jpg" alt="Screenshot-2025-06-19-09-28-28-57-87c2225eebc34d2513fa0e7ad5b93cfc" border="0"></a>
+<a href="https://ibb.co/YF9CybjC"><img src="https://i.ibb.co/gL12P6g2/Screenshot-2025-06-19-09-01-49-47-c759c44d10a956b96f85cc66750ff86e.jpg" alt="Screenshot-2025-06-19-09-01-49-47-c759c44d10a956b96f85cc66750ff86e" border="0"></a>
+
 i have created a superpsx link scraper, can be tweaked for different sites ect
 
 script and archives available for small donation
