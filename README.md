@@ -1,5 +1,4 @@
 
-<a href="https://ibb.co/YF9CybjC"><img src="https://i.ibb.co/gL12P6g2/Screenshot-2025-06-19-09-01-49-47-c759c44d10a956b96f85cc66750ff86e.jpg" alt="Screenshot-2025-06-19-09-01-49-47-c759c44d10a956b96f85cc66750ff86e" border="0"></a>
 
 ## Support & Donations
 This project is maintained by a developer working from their phone! If you find this tool useful, consider supporting the effort to upgrade to a full PC setup.
